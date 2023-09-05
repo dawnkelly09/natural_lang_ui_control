@@ -1,0 +1,25 @@
+{
+  "name": "natural_lang_ui_control",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "chart.js": "^4.4.0",
+    "dotenv": "^16.3.1",
+    "eslint": "8.48.0",
+    "eslint-config-next": "13.4.19",
+    "langchain": "^0.0.142",
+    "next": "13.4.19",
+    "pusher": "^5.1.3",
+    "pusher-js": "^8.3.0",
+    "react": "18.2.0",
+    "react-chartjs-2": "^5.2.0",
+    "react-dom": "18.2.0",
+    "zod": "^3.22.2"
+  }
+}
